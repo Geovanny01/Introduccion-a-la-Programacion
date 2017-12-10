@@ -1,0 +1,21 @@
+
+Fecha y Hora: 10/12/17 17:10:04
+Frecuencia Carciaca: 101
+Frecuencia Respiratoria: 15
+Pulso: 94
+Fecha y Hora: 10/12/17 17:10:04
+Frecuencia Carciaca: 60
+Frecuencia Respiratoria: 13
+Pulso: 84
+Fecha y Hora: 10/12/17 17:10:04
+Frecuencia Carciaca: 88
+Frecuencia Respiratoria: 18
+Pulso: 72
+Fecha y Hora: 10/12/17 17:10:04
+Frecuencia Carciaca: 74
+Frecuencia Respiratoria: 13
+Pulso: 105
+Fecha y Hora: 10/12/17 17:10:04
+Frecuencia Carciaca: 91
+Frecuencia Respiratoria: 15
+Pulso: 71
